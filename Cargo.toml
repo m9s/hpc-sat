@@ -1,0 +1,6 @@
+[package]
+name = "hpc-sat"
+version = "0.1.0"
+authors = ["Ben Harris <mail@bharr.is>"]
+
+[dependencies]
